@@ -2,12 +2,12 @@
 
 ## Summary of steps to complete (See corresponding sections below.)
 
-- [ ] Fork this repository so you have your own copy to work on.
-- [ ] Clone the repository on your local machine. 
-- [ ] Check your version of Python using an Anaconda Prompt and a regular Command Prompt
-- [ ] Edit this README.md file on your machine.
-- [ ] Push your changes to your GitHub repository.
-- [ ] Submit a link to this GitHub repository in Canvas.
+- [X] Fork this repository so you have your own copy to work on.
+- [X] Clone the repository on your local machine. 
+- [X] Check your version of Python using an Anaconda Prompt and a regular Command Prompt
+- [X] Edit this README.md file on your machine.
+- [X] Push your changes to your GitHub repository.
+- [X] Submit a link to this GitHub repository in Canvas.
 
 ## 1. Fork & Clone
 
@@ -33,17 +33,17 @@
   
 ## Check version
 
-* [ ] Open an Anaconda Prompt. (If you're on a Mac, you should be able to just open a terminal window and run these commands.)
-* [ ] Check your python version by running the code `python --version`
-* [ ] Enter the result in the table below.
-* [ ] Open a regular Command Prompt.
-* [ ] Check your python version by running the code `python --version`
-* [ ] Enter the result in the table below.
+* [X] Open an Anaconda Prompt. (If you're on a Mac, you should be able to just open a terminal window and run these commands.)
+* [X] Check your python version by running the code `python --version`
+* [X] Enter the result in the table below.
+* [X] Open a regular Command Prompt.
+* [X] Check your python version by running the code `python --version`
+* [X] Enter the result in the table below.
 
 |   Command   |         Result          |
 |     ---     |           ---           |
-|`python --version` in Anaconda Prompt         |(enter result here)|
-|`python --version` in regular Command Prompt  |(enter result here)|
+|`python --version` in Anaconda Prompt         |(3.8.8)|
+|`python --version` in regular Command Prompt  |(3.8.8)|
 
 * If you didn't get a result in the regular command prompt, it means Python didn't get added to your path variable.
 * It's not strictly necessary. It just means you should run Python from the CLI using Anaconda Prompt instead of a regular command prompt. Or you need to add the path to Python to your path variable.
